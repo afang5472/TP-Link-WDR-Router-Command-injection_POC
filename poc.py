@@ -1,6 +1,8 @@
 #!/usr/bin/python
 #this is a POC for TP-LINK WDR5620-V3.0 Command Execution Vulnerability.
 
+#discoverer: Zhiniang Peng from Qihoo 360 Core Security & Fangming Gu
+
 from requests import *
 
 ip      = "192.168.1.1"
